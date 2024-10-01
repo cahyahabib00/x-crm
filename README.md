@@ -20,7 +20,7 @@
 - Pilih opsi **Download ZIP**.
 - Ekstrak file yang sudah diunduh dan buka di text editor pilihanmu.
 
- 2. Mengunduh Melalui Version Control (Git)
+### 2. Mengunduh Melalui Version Control (Git)
 
 1. Buka **Command Line** (atau Git Bash jika menggunakan Windows).
 2. Pastikan Git sudah terinstal dengan benar.
@@ -31,6 +31,18 @@
    ```bash
    cd x-crm
 5. Buka proyek dengan text editor pilihanmu. Jika kamu menggunakan VS Code, jalankan perintah:
-       ```bash
+   ```bash
    code .
-       
+6. Instal Dependency dengan Composer
+   ```bash
+   composer install
+7. Konfigurasi file **.env**
+8. Generate API Key
+    ```bash
+    php artisan key:generate
+9. Migrasi Database
+    ```bash
+    php artisan migrate
+10. Jalankan Server Laravel
+    ```bash
+    php artisan serve  
