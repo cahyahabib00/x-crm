@@ -48,5 +48,5 @@
 10. Jalankan Server Laravel
     ```bash
     php artisan serve  
-
-<a href="{{ asset('./public/sample.csv') }}" download="myfile.csv">Download CSV</a>
+### 3. Mengunduh Sempel CSV 
+Download Sample CSV yang Bisa Kamu Pakai didalam X-CRM <a href="{{ asset('./public/sample.csv') }}" download="myfile.csv">Download CSV</a>
