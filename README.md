@@ -48,5 +48,5 @@
 10. Jalankan Server Laravel
     ```bash
     php artisan serve  
-    
-<a href="{{ asset('files/myfile.csv') }}" download="myfile.csv">Download CSV</a>
+
+<a href="{{ asset('./public/sample.csv') }}" download="myfile.csv">Download CSV</a>
