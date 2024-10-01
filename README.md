@@ -26,7 +26,7 @@
 2. Pastikan Git sudah terinstal dengan benar.
 3. Jalankan perintah berikut untuk meng-clone repository:  <br>
    ```bash
-   gh repo clone cahyahabib00/x-crm
+   gh clone https://github.com/cahyahabib00/x-crm.git
 4. Masuk ke direktori proyek:
    ```bash
    cd x-crm
