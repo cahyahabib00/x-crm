@@ -1,3 +1,5 @@
+<img src="./public/gambar/x-crm.png" style="height:300px">
+
 # Tentang X - CRM
 
 ### X-CRM adalah program **Customer Relationship Management** sederhana yang dapat digunakan untuk manajemen pelanggan secara efisien. Beberapa fitur utama yang disediakan:
