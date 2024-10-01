@@ -1,0 +1,51 @@
+name,handle,bio,location,website,joinDate,followingCount,followerCount,tweetCount,isVerified,profileImageUrl,bannerImageUrl
+Adam Wathan,@adamwathan,Creator of @tailwindcss. Listener of Slayer. Austin 3:16.,,tailwindcss.com,Joined July 2012,782,,,true,,https://pbs.twimg.com/profile_banners/716933677/1688672961/1500x500
+Guillermo Rauch,@rauchg,@vercel CEO,"San Francisco, CA",rauchg.com,Joined July 2008,111,,,true,,https://pbs.twimg.com/profile_banners/15540222/1696962299/1500x500
+Rasmus Andersson,@rsms,"Adventures in software & design. Founder of @playbit_, designer of Inter, @Figma, @Spotify. Eng & design @Facebook. (http://mastodon.social/@rsms)",Berkeley,rsms.me,Joined March 2007,2829,,,true,,https://pbs.twimg.com/profile_banners/2475171/1719969397/1500x500
+Dan Hollick,@DanHollick,"design engineer @tailwindcss. tweets about design systems and tools.
+prev: @raycastapp",JHB → OSL→ LDN,typefully.com/DanHollick,Joined September 2009,331,,,true,https://pbs.twimg.com/profile_images/1617190243454550016/f2azHnFh_400x400.jpg,https://pbs.twimg.com/profile_banners/77954485/1581577842/1500x500
+fasterthanlime,@fasterthanlime,"hi, I'm amos!  they/them  I make articles & videos about how computers work ‍ cool bear's less cool counterpart  be kind",four oreos from heaven,fasterthanli.me,Joined June 2014,398,,,true,,https://pbs.twimg.com/profile_banners/2589716941/1715997209/1500x500
+Jon Gjengset,@jonhoo,Rust live-coder and OSS tinkerer who loves teaching. I try to keep a high SNR. Wrote Rust for Rustaceans. At @HelsingAI. Ex AWS. Co-founded @readysetio. he/him,"Oslo, Norway",thesquareplanet.com,Joined March 2009,194,,,false,,https://pbs.twimg.com/profile_banners/25386045/1489783222/1500x500
+Felix Geisendörfer,@felixge,"Senior Staff @datadoghq working on Go Profiling, Performance, OpenTelemetry and more.
+
+Before: @Apple, Co-founder @transloadit, @nodejs core dev",Berlin,github.com/felixge,Joined October 2007,1912,,,false,,https://pbs.twimg.com/profile_banners/9599342/1625481028/1500x500
+John-David Dalton,@jdalton,"Lodash creator • sometimes TC39 delegate • protecting supply chains at http://Socket.dev • Ex (Bun, Salesforce, Node core, Electron WG, Microsoft)","Own Opinions, Population Me.",github.com/jdalton,Joined April 2008,80,,,false,,https://pbs.twimg.com/profile_banners/14272162/1613760407/1500x500
+Addy Osmani,@addyosmani,"Engineering leader, @GoogleChrome • Author • Great user & developer experiences • @ChromiumDev @ChromeDevTools • @____lighthouse • @ChromeUXReport","Mountain View, CA",addyosmani.com,Joined April 2009,2160,,,true,,https://pbs.twimg.com/profile_banners/35432643/1539971599/1500x500
+merve,@mervenoyann,open-sourceress at @huggingface  proud Mediterrenean  I work on zero-shot vision & VLMs,Paris,huggingface.co/merve,Joined December 2019,4308,,,true,,https://pbs.twimg.com/profile_banners/1202267633049100291/1640516441/1500x500
+Julien Chaumond,@julien_c,"Co-founder and CTO at @huggingface . ML/AI for everyone, building products to propel communities fwd. @Stanford + @Polytechnique",Paris / New York,huggingface.co,Joined September 2008,1089,,,true,,https://pbs.twimg.com/profile_banners/16141659/1409913820/1500x500
+Philipp Schmid,@_philschmid,Tech Lead and LLMs at @huggingface    AWS ML Hero  | Cloud & ML enthusiast | Nuremberg |  http://philschmid.de,Nürnberg,philschmid.de,Joined June 2019,764,,,true,,https://pbs.twimg.com/profile_banners/1141052916570214400/1725456070/1500x500
+Daniel Han,@danielhanchen,Building @UnslothAI. Finetune & train AI models easily open source http://github.com/unslothai/unsloth…. Prev ML at NVIDIA. Hyperlearn used by NASA. I like maths & data,San Francisco,unsloth.ai,Joined April 2016,1251,,,true,,https://pbs.twimg.com/profile_banners/717359704226172928/1676039688/1500x500
+Christina Chong,@christinachongx,Twin Flames  my debut EP… OUT NOW (links in bio)La’an (La-ahn) Noonien-Singh on Star Trek: Strange New Worlds,The Universe,flowcode.com/page/christina…,Joined March 2009,689,,,false,,https://pbs.twimg.com/profile_banners/23449189/1686011561/1500x500
+Anson Mount,@ansonmount,Actor and co-host of @TheWellPod,Strange New Worlds,,Joined September 2008,802,,,false,,https://pbs.twimg.com/profile_banners/16154755/1708096028/1500x500
+Simon Vrachliotis,@simonswiss,"DevRel & design_gineer @thethinkmill
+ Teacher: @protailwind & https://epicweb.dev
+ Podcast: @the_navbar
+ YouTube: https://youtube.com/@simonswiss","Woolgoolga, New South Wales",simonswiss.com,Joined September 2009,2010,,,true,,https://pbs.twimg.com/profile_banners/70713547/1687827660/1500x500
+Lee Robinson,@leeerob,"Building @Vercel. Teaching about React, Next.js, and the web.","Iowa, USA",leerob.com,Joined October 2009,627,,,true,,https://pbs.twimg.com/profile_banners/81712767/1701056165/1500x500
+Rich Harris,@Rich_Harris,"Cheese fan. I work on @sveltejs at @vercel. When the asteroid finally obliterates this place you can find me at @rich_harris@toot.cafe. Until then,","New York, New York",bit.ly/IqT6zt,Joined January 2009,2029,,,true,,https://pbs.twimg.com/profile_banners/19487837/1398389241/1500x500
+Evan You,@youyuxi,"Husband, father of two, independent OSS dev. @vuejs, @vite_js, @rolldown_rs, and more. Gaming/Manga/Sushi/F1/NBA/UFC. Chinese-only alt: @yuxiyou",Singapore,github.com/sponsors/yyx99…,Joined August 2010,1690,,,true,,https://pbs.twimg.com/profile_banners/182821975/1718938290/1500x500
+Thomas Sanlis,@T_Zahil,"Entrepreneur - Teacher
+
+A better Product Hunt: https://uneed.best
+VueJS reverse job board: https://vue-developers.com",$5K/mo,thomas-sanlis.com,Joined December 2014,695,,,true,,https://pbs.twimg.com/profile_banners/2924766707/1715854044/1500x500
+Marc Lou,@marc_louvion,"http://ShipFa.st $60K/m
+ http://IndiePa.ge $5K/m
+ http://Zenvoice.io $1K/m
+ http://HabitsGarden.com $.5K/m
+ http://WorkbookPDF.com $.5K/m
+ http://PoopUp.co $.5K/m
+
++16 more http://marclou.com","Join 27,000+ readers →",marclou.beehiiv.com,Joined January 2014,976,,,true,,https://pbs.twimg.com/profile_banners/2311987360/1708675367/1500x500
+Dan Kulkov,@DanKulkov,"Actionable marketing resources → http://makerbox.club 
+
+AI-powered marketing tools → http://founderpal.ai 
+
+Post-purchase platform for Creators → http://smooz.co","Course ""AI wrapper in 5 days""",makerbox.club/ai-wrapper-cou…,Joined September 2020,281,,,true,,https://pbs.twimg.com/profile_banners/1304474568149663745/1712846817/1500x500
+Sveta Bay,@sveta_bay,"http://MakerBox.club & http://FounderPal.ai 
+
+ Indie Entrepreneur & Nomad","Course ""AI wrapper in 5 days""",makerbox.club/ai-wrapper-cou…,Joined May 2022,304,,,false,,https://pbs.twimg.com/profile_banners/1524814744728784897/1677572388/1500x500
+Max,@maxecc,SaaS Paid Media Marketer By  Indie Maker By  http://gifstat.com  http://launchorpay.com,,,Joined February 2020,490,,,true,,https://pbs.twimg.com/profile_banners/1230208912684654592/1698837702/1500x500
+J Kim,@jkimlaunch,"3x founder (Techstars & YC, 10M+ raised, 1 exit)
+ Head of Product at SeriesA
+ Mentor / Advisor (100+)
+ Working on a Validation tool",Proud Canadian @ Thailand,LaunchLane.io,Joined November 2014,331,,,true,,https://pbs.twimg.com/profile_banners/2882903915/1693204706/1500x500
